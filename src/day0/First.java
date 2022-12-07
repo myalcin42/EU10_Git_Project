@@ -5,6 +5,6 @@ public class First {
     public static void main(String[] args) {
 
         System.out.println("cydeo is first");
-        int a = 5;
+        System.out.println("ı love java");
     }
 }
